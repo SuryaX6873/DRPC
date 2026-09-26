@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Custom RPC"
+rootProject.name = "Discord RPC"
 include(":app")
  
